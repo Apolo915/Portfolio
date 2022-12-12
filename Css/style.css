@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(207, 246, 250);
+  }
+  
+  h1 {
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+  }
+  q{
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+  }
+  h3 {
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+  }
+  .gif {border: 2px;
+  }
+  #intro{
+    text-align:left;  
+  }
+  .photo{
+     margin-left: 10px;
+  }
+  .personal{
+    border: 5px outset rgb(55, 0, 255);
+    background-color: lightblue;
+    text-align:left;
+  }
+  .professional{
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: left;
+  }
+  img {
+    border-radius: 8px;
+  }
